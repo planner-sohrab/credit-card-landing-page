@@ -29,3 +29,15 @@ a {
 #part3 a {
   padding-left: 10px;
 }
+
+#userexperience {
+  display: flex;
+}
+.plus {
+  color: #f30af3;
+}
+
+.items {
+  display: flex;
+  padding: 20px;
+}
