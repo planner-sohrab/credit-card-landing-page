@@ -4,3 +4,28 @@ body {
   background-color: #000;
   color: #fff;
 }
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+ul {
+  display: flex;
+}
+li {
+  list-style: none;
+  padding: 10px;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+#part3 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+#part3 a {
+  padding-left: 10px;
+}
